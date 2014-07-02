@@ -1,7 +1,8 @@
+**This version without Gradle!!**
+
 ##Description
 
 Small library allowing you to make a smooth indeterminate progress bar. You can either user your progress bars and set this drawable or use directly the `SmoothProgressBarView`.
-
 
 ##Demo:
 Sample app available on the [Play Store]
@@ -12,21 +13,6 @@ Sample app available on the [Play Store]
 ##How does it work
 
 I wrote a [blog post] about that.
-
-##Integration
-
-The lib is now on Maven Central. All you have to do is add it on your gradle build:
-
-```xml
-dependencies {
-    // of course, do not write x.x.x but the version number
-    compile 'com.github.castorflex.smoothprogressbar:library:x.x.x'
-}
-```
-
-You can find the last version on [Gradle Please]
-
-If you really want (or have) to use Eclipse, please look at the forks.
 
 ##Usage
 
